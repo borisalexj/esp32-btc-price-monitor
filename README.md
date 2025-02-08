@@ -12,7 +12,7 @@ Wiring diagram:
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="
-https://github.com/borisalexj/esp32-btc-price-monitor/blob/main/wiring/Screenshot_84.png" width="400" height="250" style="margin: 10px;">
+[https://github.com/borisalexj/esp32-btc-price-monitor/blob/main/wiring/Screenshot_84.png](https://raw.githubusercontent.com/borisalexj/esp32-btc-price-monitor/757559943569fe3affae558d65989b587830cd56/wiring/Screenshot_84.png)" width="400" height="250" style="margin: 10px;">
     <img src="https://github.com/lucasfernandoprojects/esp32-bitcoin-price-monitoring/blob/main/photos/2.jpg" width="400" height="250" style="margin: 10px;">
     <img src="https://github.com/lucasfernandoprojects/esp32-bitcoin-price-monitoring/blob/main/photos/4.jpg" width="400" height="250" style="margin: 10px;">
     <img src="https://github.com/lucasfernandoprojects/esp32-bitcoin-price-monitoring/blob/main/photos/5.jpg" width="400" height="250" style="margin: 10px;">
