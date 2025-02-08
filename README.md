@@ -3,7 +3,7 @@ Inspired by https://www.youtube.com/watch?v=31O-T14x7o8 (https://github.com/luca
 
 ## Components used:
 
-ESP32-C3 Development Board ESP32 SuperMini Development Board 
+ESP32-C3 SuperMini Development Board 
 
 1.3" OLED Module 128X64 IIC Communicate
 
