@@ -20,7 +20,9 @@ https://www.printables.com/model/513649-13in-oled-screen-esp8266-case
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://github.com/borisalexj/esp32-btc-price-monitor/blob/main/wiring/Screenshot_84.png" width="800" height="500" style="margin: 10px;">
-    by app.smartdraw.com
+    
+    by https://app.smartdraw.com
+    
     <img src="https://github.com/borisalexj/esp32-btc-price-monitor/blob/main/photos/20250201_233610.jpg" width="800" height="500" style="margin: 10px;">
 </div>
 </br>
