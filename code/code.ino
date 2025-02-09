@@ -19,6 +19,7 @@ const char* api_key = "";
 const char* api_url = "https://rest.coinapi.io/v1/exchangerate/BTC/USD";
 
 // Display constants
+#define WHITE SH110X_WHITE  ///< Draw 'on' pixels
 #define i2c_Address 0x3c
 
 #define SCREEN_WIDTH 128  // OLED display width, in pixels
