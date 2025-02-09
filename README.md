@@ -19,7 +19,14 @@ https://www.printables.com/model/513649-13in-oled-screen-esp8266-case
 ## Wiring diagram:
 by https://app.smartdraw.com
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://github.com/borisalexj/esp32-btc-price-monitor/blob/main/wiring/Screenshot_84.png" width="800" height="500" style="margin: 10px;">
+    <img src="https://github.com/borisalexj/esp32-btc-price-monitor/blob/main/wiring/wiring.png" width="800" height="500" style="margin: 10px;">
     <img src="https://github.com/borisalexj/esp32-btc-price-monitor/blob/main/photos/20250201_233610.jpg" width="800" height="500" style="margin: 10px;">
 </div>
 
+## SetUp
+
+Update Wifi name and password.
+
+Update api_key with your api key from coinapi.io
+
+Upload the code to your ESP32
