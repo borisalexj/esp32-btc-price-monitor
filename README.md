@@ -23,3 +23,7 @@ by https://app.smartdraw.com
     <img src="https://github.com/borisalexj/esp32-btc-price-monitor/blob/main/photos/20250201_233610.jpg" width="800" height="500" style="margin: 10px;">
 </div>
 
+## SetUp
+Update Wifi name and password.
+Update api_key with your api key from coinapi.io
+Upload the code to your ESP32
