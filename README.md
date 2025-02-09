@@ -24,6 +24,9 @@ by https://app.smartdraw.com
 </div>
 
 ## SetUp
+
 Update Wifi name and password.
+
 Update api_key with your api key from coinapi.io
+
 Upload the code to your ESP32
